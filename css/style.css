@@ -1,0 +1,40 @@
+
+
+h3{
+	       display: block;
+    font-size: 1.17em;
+       color: #AAA;
+    font-weight: bold;
+}
+header .container{
+	    border-bottom: 1px solid #999;
+	    padding: 20px;
+	    margin: 15px auto;
+        font-size: 25px;
+       
+}
+.container .row{
+	background-color: #EEE;
+	padding-bottom: 20px;
+}
+.siteurlname.container.row{
+	background-image: linear-gradient(#EEE,#FFF);
+	padding: 20px;
+	margin: 10px;
+}
+.btn-default{
+    background-color: #1167c4;
+    border:1px solid #1167c4;
+     padding: 10px 15px;
+    font-size: 15px;
+    margin: 15px 5px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+h3{
+	    display: block;
+    font-size: 1.5em;
+    
+    font-weight: bold;
+}
+
